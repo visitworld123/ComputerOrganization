@@ -1,0 +1,2 @@
+# ComputerOrganization
+该笔记为计算机组成原理的重点复习笔记
